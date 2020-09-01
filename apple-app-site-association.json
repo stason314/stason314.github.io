@@ -1,0 +1,23 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "GPVA8JVMU3.com.rosberry.kasarina",
+                "paths": [
+                    "/journal/*",
+                    "/articles/*",
+                    "/journal/search/*",
+                    "/bookmarks/*",
+                    "/notifications/*",
+                    "/profile/*",
+                    "/settings/*",
+                    "/email/verify/*",
+                    "/update_email/verify/*",
+                    "/password/verify/*",
+                    "/registration/verify/*"
+                ]
+            }
+        ]
+    }
+}
