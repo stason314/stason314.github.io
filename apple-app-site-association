@@ -9,5 +9,8 @@
                 ]
             }
         ]
-    }
+    },
+   "webcredentials": {
+      "apps": [ "GPVA8JVMU3.com.rosberry.kasarina" ]
+   }
 }
